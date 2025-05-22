@@ -1,7 +1,6 @@
-package models;
+package Edutech.edutech.models;
 
 import jakarta.persistence.*;
-
 @Entity
 @Table(name = "users")
 public class User{

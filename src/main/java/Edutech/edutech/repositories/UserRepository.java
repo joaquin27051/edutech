@@ -1,6 +1,6 @@
-package repositories;
+package Edutech.edutech.repositories;
 
-import models.User;
+import Edutech.edutech.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

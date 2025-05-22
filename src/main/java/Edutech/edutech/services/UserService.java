@@ -1,5 +1,5 @@
-package services;
-import models.User;
+package Edutech.edutech.services;
+import Edutech.edutech.models.User;
 import java.util.List;
 
 public interface UserService {
